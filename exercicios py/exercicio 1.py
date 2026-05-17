@@ -1,2 +1,2 @@
 print("bom dia")
-print("boa\n tarde")
+print("boa\ntarde")
