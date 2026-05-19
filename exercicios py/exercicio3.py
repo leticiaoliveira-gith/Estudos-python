@@ -7,4 +7,4 @@ resultadoI =idade
 altura = input("diite sua altura: ")
 resultadoA =altura
 
-print("seu nome e:", resultadoN,"sua idade e:", resultadoI,"sua altura e:", resultadoA)
+print("seu nome e:", resultadoN,", você tem :", resultadoI,"anos, sua altura e:", resultadoA)
