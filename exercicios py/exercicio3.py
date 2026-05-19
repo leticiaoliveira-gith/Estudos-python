@@ -1,11 +1,10 @@
 nome = input("digite seu nome: ")
-resultado = nome
-print("seu nome e:",resultado)
+resultadoN = nome
 
 idade = input("diite sua idade: ")
-resultado =idade
-print("sua idade e:",resultado)
+resultadoI =idade
 
 altura = input("diite sua altura: ")
-resultado =altura
-print("sua altura e:",resultado)
+resultadoA =altura
+
+print("seu nome e:", resultadoN,"sua idade e:", resultadoI,"sua altura e:", resultadoA)
